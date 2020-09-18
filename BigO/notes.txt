@@ -1,0 +1,21 @@
+***************** Time Complexity **********************
+
+O(1) 
+    --> Constant time Complexity
+    --> No matter the number of inputs time will remain the same
+
+O(n) 
+    --> Linear Time Complexity
+    --> Time increases linearly as number of inputs increases
+
+Big O Rules
+    Rule 1 --> Big O is always for the worst case
+    Rule 2 --> Ignore all the constants in Big O equation
+    Rule 3 --> Use different terms for inputs
+    Rule 4 --> Drop all non-dominant terms. Logically the biggest power of n is the bottleneck for time complexity 
+
+
+Calculating time complexity of a function by above 4 rules
+    --> Find O of each operation
+    --> sum it
+    --> max power of n is the time complexity of the function
