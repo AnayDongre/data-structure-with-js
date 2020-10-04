@@ -1,0 +1,7 @@
+Time complexities of operations
+    --> lookup - O(1)
+    --> push - O(1) *** for dynamic array time complexity can be O(n)
+    --> pop - O(1)  
+    --> unshift - O(n)
+    --> splice - O(n)
+    --> delete - O(n)
